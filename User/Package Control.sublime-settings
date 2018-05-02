@@ -1,0 +1,10 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://dev-proxy.oa.com:8080",  
+    "https_proxy": "https://dev-proxy.oa.com:8080",  
+    "debug": true,
+	"installed_packages":
+	[
+		"Package Control"
+	]
+}
